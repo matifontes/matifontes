@@ -9,13 +9,13 @@
 - 💻 Passionate about development and learning new technologies
 
 ✉️ Contact Me
-<p align="left">
-<a href="https://www.linkedin.com/in/matifontes13/" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/512/145/145807.png" alt="Linkedin" width="65" height="65"/>
-</p>
-
 :email: matifontes13@gmail.com
 
 :iphone:	+598 98 22 97 92
+
+<p align="left">
+<a href="https://www.linkedin.com/in/matifontes13/" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/512/145/145807.png" alt="Linkedin" width="65" height="65"/>
+</p>
 
 ## Tech Stack
 <p align="left">
