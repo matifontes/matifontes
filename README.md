@@ -9,7 +9,10 @@
 - 💻 Passionate about development and learning new technologies
 
 ✉️ Contact Me
+
 https://www.linkedin.com/in/matifontes13/
+
+:email: matifontes13@gmail.com
 
 
 ## Tech Stack
