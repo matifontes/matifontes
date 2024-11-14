@@ -8,7 +8,7 @@
 - ⚛️ Skilled in Full Stack Development with Angular, .NET
 - 💻 Passionate about development and learning new technologies
 
-✉️ ## Contact Me
+## ✉️  Contact Me
 
 :email: matifontes13@gmail.com
 
