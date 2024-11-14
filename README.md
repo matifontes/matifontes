@@ -1,8 +1,5 @@
 ## Hello there 👋, I'm Matias Fontes
 
-<!--
-**matifontes/matifontes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 ## About me
 
 - 🔭 I’m currently working  as a programming teacher I & II at Universidad ORT Uruguay
@@ -15,6 +12,10 @@
 https://www.linkedin.com/in/matifontes13/
 
 
-Tech Stack
+## Tech Stack
 
 https://user-images.githubusercontent.com/25181517/183890595-779a7e64-3f43-4634-bad2-eceef4e80268.png
+
+<!--
+**matifontes/matifontes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
