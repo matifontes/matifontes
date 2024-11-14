@@ -14,6 +14,7 @@ https://www.linkedin.com/in/matifontes13/
 
 :email: matifontes13@gmail.com
 
+:iphone:	+598 98 22 97 92
 
 ## Tech Stack
 <p align="left">
