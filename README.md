@@ -7,7 +7,7 @@
 - 📚 Excited about Algorithms & Data Structures
 - ⚛️ Skilled in Full Stack Development with Angular, .NET
 - 💻 Passionate about development and learning new technologies
-
+ 
 ## ✉️  Contact Me
 
 :email: matifontes13@gmail.com
